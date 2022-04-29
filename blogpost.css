@@ -9,3 +9,8 @@ h6 {
 .parrafo {
   color: red;
 }
+footer {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+  color: greenyellow;
+}
